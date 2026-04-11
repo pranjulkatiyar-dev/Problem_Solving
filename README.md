@@ -16,4 +16,9 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0345-reverse-vowels-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
