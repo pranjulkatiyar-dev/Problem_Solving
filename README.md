@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0409-longest-palindrome) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
