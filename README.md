@@ -32,8 +32,13 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0066-plus-one) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
