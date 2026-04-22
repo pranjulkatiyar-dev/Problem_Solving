@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0409-longest-palindrome) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0171-excel-sheet-column-number) |
 ## Bit Manipulation
 |  |
 | ------- |
