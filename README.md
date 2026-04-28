@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0409-longest-palindrome) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0389-find-the-difference) |
