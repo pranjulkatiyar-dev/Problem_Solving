@@ -26,6 +26,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/pranjulkatiyar-dev/Problem_Solving/tree/master/0459-repeated-substring-pattern) |
 ## Two Pointers
 |  |
